@@ -1,0 +1,27 @@
+*{
+    margin: 0;  
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(236, 206, 206);
+}
+
+h1{
+    font-size: 70px;
+    text-shadow: 3px 5px white ;
+}
+
+img.logo{ 
+    width: 180px;
+    height: 150px;
+    border-radius: 50%;     
+}
+
+img.imagen-index{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+p.texto_Bienvenida{
+    font-size: 50px;
+}
